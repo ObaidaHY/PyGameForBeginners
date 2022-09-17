@@ -11,4 +11,4 @@ Make sure that Assets folder is in the same directory as main.py
 <br />
 <br />
 <br />
-credits to : Tech With Tim
+Credits to : Tech With Tim
