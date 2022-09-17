@@ -5,7 +5,7 @@ The project is a basic spaceship war game.
 <br />
 
 ## 🛠️ Requirements:
-In order to run the Script, you need to have **Python & PyGame** library.<br />
+In order to run the Script, you need to have **Python & PyGame library**.<br />
 Make sure that Assets folder is in the same directory as main.py
 
 <br />
