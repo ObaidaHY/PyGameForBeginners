@@ -2,6 +2,7 @@
 Mini Project that was made to gain familiarity with pygame library.<br />
 The project is a basic spaceship war game.
 <br />
+<br />
 
 ## 🛠️ Requirements:
 In order to run the Script, you need to have **Python & PyGame** library.<br />
